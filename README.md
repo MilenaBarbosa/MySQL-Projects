@@ -1,4 +1,4 @@
-* Project 1: All For One - In this project it was practiced the following commands:
+* Project 1: <a href="https://github.com/lcdlima/MySQL-Projects/tree/main/All-For-One">All For One</a> - In this project it was practiced the following commands:
   * SELECT
   * AS
   * CONCAT
@@ -16,7 +16,7 @@
   * Work with dates
   * Use boolean and relational operators
 
-* Project 2: Vocabulary Booster - In this project it was practiced the following commands:
+* Project 2: <a href="https://github.com/lcdlima/MySQL-Projects/tree/main/Vocabulary-Booster">Vocabulary Booster</a> - In this project it was practiced the following commands:
   * IF/CASE
   * AVG/MIN/MAX/SUM
   * GROUP BY/HAVING
@@ -27,4 +27,4 @@
   * EXISTS
   * STORED PROCEDURES/STORED FUNCTIONS
 
-* Project 3: One For All - In this project it was practiced how to create a table, normalization and 1NF/2NF/3NF
+* Project 3: <a href="https://github.com/lcdlima/MySQL-Projects/tree/main/One-For-All">One For All</a> - In this project it was practiced how to create a table, normalization and 1NF/2NF/3NF
